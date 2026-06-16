@@ -1,5 +1,5 @@
 ---
-title: كيف يعمل مُحقِّق
+title: كيف يعمل
 kicker: How it works
 order: 1
 principle: |-
